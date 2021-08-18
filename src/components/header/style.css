@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 75%;
+}
+
+.logo img {
+  width: 181px;
+  height: 41px;
+  
+}
+
+.busca {
+  font-family: 'Nunito', sans-serif;
+}
+
+.busca-input {
+  background: url(../../assets/images/lupa.svg) no-repeat right; /* Imagem foi adicionada no background e para direita*/
+  padding-right: 15px;
+}
+
+.busca input {
+  outline: 0; /* Retira a borda do input */
+  border-width: 0 0 2px;
+  width: 360px;
+  border-color:#7A7A7A
+  
+}
+.busca input:focus {
+  border-color: #7A7A7A
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 13px;
+ 
+}
+
+.shopping {
+  
+}
