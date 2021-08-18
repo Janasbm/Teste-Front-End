@@ -1,3 +1,12 @@
+#ATeste Front-end Corebiz
+
+A proposta do teste é desenvolver uma aplicação utilizando HTML5 + CSS3 + JS
+Consumir dados das API formecidas
+
+#Biblioecas utilizadas
+Axios
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
