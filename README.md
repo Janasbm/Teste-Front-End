@@ -1,10 +1,11 @@
-### Teste Front-end Corebiz
+# Teste Front-end Corebiz
 
 A proposta do teste é desenvolver uma aplicação utilizando HTML5 + CSS3 + JS
 
 Consumir dados das API formecidas
 
-## Bibliotecas utilizadas
+# Bibliotecas utilizadas
+React,
 React Hook Form e
 Axios
 
